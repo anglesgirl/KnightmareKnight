@@ -1,0 +1,104 @@
+
+trump.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_ui_highlow_card1
+  rotate: false
+  xy: 2, 622
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card10
+  rotate: false
+  xy: 406, 2
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card11
+  rotate: false
+  xy: 608, 312
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card12
+  rotate: false
+  xy: 810, 622
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card13
+  rotate: false
+  xy: 810, 312
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card2
+  rotate: false
+  xy: 2, 312
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card3
+  rotate: false
+  xy: 204, 622
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card4
+  rotate: false
+  xy: 2, 2
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card5
+  rotate: false
+  xy: 204, 312
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card6
+  rotate: false
+  xy: 406, 622
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card7
+  rotate: false
+  xy: 204, 2
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card8
+  rotate: false
+  xy: 406, 312
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_card9
+  rotate: false
+  xy: 608, 622
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1
+01_ui_highlow_cardBack
+  rotate: false
+  xy: 608, 2
+  size: 200, 308
+  orig: 200, 308
+  offset: 0, 0
+  index: -1

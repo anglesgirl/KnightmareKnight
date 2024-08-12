@@ -1,0 +1,104 @@
+
+misaoLock.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nk_lockBreak_chainL
+  rotate: false
+  xy: 178, 92
+  size: 548, 52
+  orig: 548, 52
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_chainR
+  rotate: true
+  xy: 178, 444
+  size: 558, 52
+  orig: 558, 52
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_crack01
+  rotate: false
+  xy: 542, 759
+  size: 197, 118
+  orig: 197, 118
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_crack02
+  rotate: true
+  xy: 232, 454
+  size: 53, 177
+  orig: 54, 177
+  offset: 1, 0
+  index: -1
+01_nk_lockBreak_crack03
+  rotate: false
+  xy: 542, 879
+  size: 213, 123
+  orig: 213, 123
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_flash
+  rotate: true
+  xy: 524, 419
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_lock
+  rotate: true
+  xy: 232, 509
+  size: 230, 187
+  orig: 230, 187
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_piece01
+  rotate: false
+  xy: 421, 623
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_piece02
+  rotate: true
+  xy: 411, 464
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_piece03
+  rotate: true
+  xy: 421, 695
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_piece04
+  rotate: false
+  xy: 421, 551
+  size: 20, 70
+  orig: 20, 70
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_shine
+  rotate: false
+  xy: 2, 2
+  size: 174, 1000
+  orig: 174, 1000
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_shineHeart
+  rotate: false
+  xy: 178, 146
+  size: 344, 296
+  orig: 344, 296
+  offset: 0, 0
+  index: -1
+01_nk_lockBreak_shineHeart2
+  rotate: false
+  xy: 232, 741
+  size: 308, 261
+  orig: 318, 272
+  offset: 5, 7
+  index: -1

@@ -1,0 +1,62 @@
+
+piston01.png
+size: 990,851
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piston01_p01
+  rotate: true
+  xy: 581, 25
+  size: 114, 373
+  orig: 114, 373
+  offset: 0, 0
+  index: -1
+piston01_p02
+  rotate: false
+  xy: 883, 258
+  size: 105, 432
+  orig: 105, 432
+  offset: 0, 0
+  index: -1
+piston01_p03
+  rotate: true
+  xy: 581, 692
+  size: 157, 387
+  orig: 159, 388
+  offset: 1, 0
+  index: -1
+piston01_p04
+  rotate: true
+  xy: 2, 141
+  size: 708, 447
+  orig: 708, 447
+  offset: 0, 0
+  index: -1
+piston01_p05
+  rotate: true
+  xy: 451, 141
+  size: 549, 227
+  orig: 549, 227
+  offset: 0, 0
+  index: -1
+piston01_p06
+  rotate: true
+  xy: 680, 181
+  size: 509, 201
+  orig: 509, 201
+  offset: 0, 0
+  index: -1
+piston01_p07
+  rotate: true
+  xy: 2, 2
+  size: 137, 382
+  orig: 138, 383
+  offset: 0, 0
+  index: -1
+piston01_p08
+  rotate: true
+  xy: 386, 10
+  size: 129, 193
+  orig: 131, 195
+  offset: 1, 1
+  index: -1
